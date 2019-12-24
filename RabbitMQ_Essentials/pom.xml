@@ -9,7 +9,7 @@
     <name>RabbitMQ Essentials</name>
 
     <properties>
-        <amqp-client.version>3.2.2</amqp-client.version>
+        <amqp-client.version>4.8.0</amqp-client.version>
         <java.jdk.version>1.7</java.jdk.version>
         <jackson.version>2.3.0</jackson.version>
     </properties>
