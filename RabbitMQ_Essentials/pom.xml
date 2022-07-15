@@ -11,7 +11,7 @@
     <properties>
         <amqp-client.version>3.2.2</amqp-client.version>
         <java.jdk.version>1.7</java.jdk.version>
-        <jackson.version>2.3.0</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
     </properties>
 
     <modules>
